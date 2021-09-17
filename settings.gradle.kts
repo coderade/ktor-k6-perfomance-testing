@@ -1,0 +1,1 @@
+rootProject.name = "ktor-k6-perfomance-testing"
